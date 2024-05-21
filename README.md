@@ -1,4 +1,4 @@
-# This project implements a web form for university certification, allowing users to input and submit student information. The form includes fields for ID number, first name, middle name, last name, gender, courses, marks for each course, and a remark. Upon submission, the data is stored in a MySQL database. The form also includes options to filter and display student data based on gender and math score.
+## This project implements a web form for university certification, allowing users to input and submit student information. The form includes fields for ID number, first name, middle name, last name, gender, courses, marks for each course, and a remark. Upon submission, the data is stored in a MySQL database. The form also includes options to filter and display student data based on gender and math score.
 
 ## How to Use
 Fill in the required information for ID number, name, gender, courses, course marks, and any additional remarks.
